@@ -1,91 +1,25 @@
 {
-  "name": "SushiSwap Menu",
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png",
-  "keywords": [
-    "sushiswap",
-    "sushi",
-    "swap"
-  ],
+  "name": "Default Token List",
   "timestamp": "2020-09-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://media.discordapp.net/attachments/724275455187746884/727496279747198976/ETHEREUM_METAMASK_LOGO.png",
+  "keywords": ["nomichef", "default", "list"],
   "tokens": [
     {
-      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "address": "0xc2fbab8de59f2671d55137dfd837f68e9a040867",
       "chainId": 1,
-      "name": "SushiSwap",
-      "symbol": "SUSHI",
+      "name": "ETHEREUM METAMASK",
+      "symbol": "ETHK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
-    },
-    {
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "chainId": 1,
-      "name": "WrappedEther",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
-    },
-    {
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "chainId": 1,
-      "name": "TetherUSD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
-    },
-    {
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "chainId": 1,
-      "name": "USDCoin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
-    },
- 
-    {
-      "address": "0x9ff5f9b15b6F7372EF226C2A703d6551b6BEB347",
-      "chainId": 1,
-      "name": "Coin Announce Token",
-      "symbol": "CAT",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06147110022B768BA8F99A8f385df11a151A9cc8/logo.png"
-    },
-    {
-      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-      "chainId": 1,
-      "name": "CompoundDai",
-      "symbol": "cDAI",
-      "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643.png"
-    },
-    {
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "chainId": 1,
-      "name": "WrappedBitcoin",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
-    },
-    
-    {
-      "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
-      "chainId": 1,
-      "name": "renBTC",
-      "symbol": "renBTC",
-      "decimals": 8,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png"
-    },
-    
-    {
-      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-      "chainId": 1,
-      "name": "AAVE",
-      "symbol": "AAVE",
-      "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png"
+      "logoURI": "https://media.discordapp.net/attachments/724275455016042547/750428060062449804/ETHK.jpg"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 2
   }
