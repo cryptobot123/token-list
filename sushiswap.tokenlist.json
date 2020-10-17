@@ -16,11 +16,27 @@
       "symbol": "ETHK",
       "decimals": 18,
       "logoURI": "https://media.discordapp.net/attachments/724275455016042547/750428060062449804/ETHK.jpg"
+    },
+    {
+      "address": "0xa52E0EbBfAB94769D23Ec0f275dFbd10767aEB13",
+      "chainId": 1,
+      "name": "ETHEREUM METAMORPHOSIS",
+      "symbol": "ETHP",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/724514856744648724/724788122365460480/1592863906323.png"
+    },
+    {
+      "address": "0x5dda646b0b99a69a24c1e919d4991ef49156b7ca",
+      "chainId": 1,
+      "name": "ETHEREUM ZERENITY 3D",
+      "symbol": "ET3D",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/749037556745764917/749037855724273864/ETHEREUM_ZERENITY_LOGO.png"
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
-    "patch": 2
+    "patch": 2.1
   }
 }
